@@ -1,11 +1,11 @@
 The resume of Anthony Gentile built with LaTeX
 
-http://agentile.com
+[View PDF](https://github.com/agentile/resume/blob/master/resume.pdf)
 
-http://github.com/agentile/
+[Personal Blog](http://agentile.com)
 
-http://careers.stackoverflow.com/agentile
+[GitHub Profile](http://github.com/agentile/)
 
-http://ag-ts.net
+[Stack Overflow Profile](http://careers.stackoverflow.com/agentile)
 
-http://www.linkedin.com/pub/anthony-gentile/46/52a/284/
+[LinkedIn Profile](http://www.linkedin.com/pub/anthony-gentile/46/52a/284/)
