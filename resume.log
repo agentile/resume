@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=latex 2017.8.22)  22 AUG 2017 16:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2019.9.5)  5 SEP 2019 19:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **resume.tex
 (./resume.tex
-LaTeX2e <2016/02/01>
-Babel <3.9q> and hyphenation patterns for 3 language(s) loaded.
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 3 language(s) loaded.
 (./res.cls
 Document Style `res' <26 Sep 89>.
 Document Class: res 2000/05/19 v1.4b Resume class
@@ -66,12 +66,12 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 
 ] [2] ) 
 Here is how much of TeX's memory you used:
- 304 strings out of 494954
- 3325 string characters out of 6181003
- 54726 words of memory out of 5000000
- 3669 multiletter control sequences out of 15000+600000
+ 304 strings out of 494924
+ 3325 string characters out of 6180769
+ 55381 words of memory out of 5000000
+ 3700 multiletter control sequences out of 15000+600000
  4553 words of font info for 17 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  29i,8n,19p,421b,191s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume.dvi (2 pages, 5212 bytes).
+Output written on resume.dvi (2 pages, 5548 bytes).
